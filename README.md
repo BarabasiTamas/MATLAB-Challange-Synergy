@@ -12,7 +12,7 @@ The purpose of this app is to create a custom dashboard for an options market ma
 
 1. Open `app1.mlapp` and run the app.
 
-![Risk Dashboard Example](Images/Synergy_Screenshot1.png)
+![Risk Dashboard Example](Images/synergy.png)
 
 ## Required files:
 
