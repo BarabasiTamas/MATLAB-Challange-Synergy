@@ -6,7 +6,7 @@
 - Jakó Zsolt
 
 ## About the app
-The purpose of this app is to create a custom dashboard for an options market making desk to report risk and performance analysis. The application imports real-time data from excel files thus creating an interactive visualisation of ten key risk metrics.
+The purpose of this app is to create a custom dashboard for an options market making desk to report risk and performance analysis. The application imports real-time data from excel files thus creating an interactive visualisation of eleven key risk metrics.
 
 ## How to use it
 
